@@ -38,8 +38,8 @@ The project is designed around a few simple principles:
 | Platform | Script | What it targets | Maturity |
 |---|---|---|---|
 | **Facebook** | [Facebook Feed Filter](./Facebook-Feed-Filter.md) | Ads, `Follow` suggestions, `Suggested for you` posts | 🟢 **Working baseline** |
-| **X** | [X Follow Filter](./X-Follow-Filter.md) | Posts from accounts you do not follow | 🟡 **Experimental** |
-| **LinkedIn** | [LinkedIn Promoted Post Blocker](./LinkedIn-Promoted-Post-Blocker.md) | `Promoted`, `Promoted by…`, partnership/sponsored posts | 🟠 **Experimental / tuning** |
+| **X** | [X Follow Filter](./X-Follow-Filter.md) | Posts from accounts you do not follow | 🟢 **Working baseline** |
+| **LinkedIn** | [LinkedIn Promoted Post Blocker](./LinkedIn-Promoted-Post-Blocker.md) | `Promoted`, `Promoted by…`, partnership/sponsored posts | 🟢 **Working baseline** |
 
 ---
 
